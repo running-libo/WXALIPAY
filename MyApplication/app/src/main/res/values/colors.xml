@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#2ecc71</color>
+    <color name="semicolorAccent">#702ecc71</color>
+    <color name="colorGreen">#ff33ff33</color>
+
+    <color name="mask">#99000000</color>
+    <color name="cloorgray">#08000000</color>
+    <color name="signButtonBg">#A0503C</color>
+
+    <color name="gray">#aaaaaa</color>
+    <color name="aaa">#33aaaaaa</color>
+    <color name="line_division">#40aaaaaa</color>
+    <color name="found_text_color">#353535</color>
+    <color name="found_description_color">#aaaaaa</color>
+    <color name="found_divide_color">#d9d9d9</color>
+    <color name="videocomment_name">#afafaf</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="red">#ffff0000</color>
+    <color name="semicYellow">#bf9e31</color>
+    <color name="yellow">#fff39700</color>
+    <color name="semiblack">#99000000</color>
+    <color name="semiwhite">#99FFFFFF</color>
+    <color name="halfwhite">#20FFFFFF</color>
+    <color name="transparent">#22000000</color>
+    <color name="total_transparent">#00000000</color>
+    <color name="semitransparent">#55ffffff</color>
+    <color name="bind_cancel_press">#ffd65284</color>
+    <color name="bind_cancel_press1">#ff7a7979</color>
+    <color name="bind_cancel">#ff999999</color>
+    <color name="expert_top_tv_normal">#ffef71a1</color>
+    <color name="colorPrimary_light">#f1212121</color>
+
+    <color name="light_blue">#ADD8E6</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+
+    <color name="emoji_keyboard_bg_light">#f6f5f5</color>
+    <color name="find_team">#666666</color>
+    <color name="find_hot">#F0503C</color>
+    <color name="find_near">#46aaff</color>
+    <color name="comment_reply">#f4f4f4</color>
+    <color name="textcolor_near">#88ffffff</color>
+
+
+    <color name="tab_top_text_1">#aaa</color>
+    <color name="tab_top_text_2">#000</color>
+
+    <!-- zxing -->
+    <color name="possible_result_points">#c0ffbd21</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- zxing -->
+
+    <color name="cl_default">#424242</color>
+    <color name="tv_float">#4648f1</color>
+    <color name="cl_error">#ffffff</color>
+
+    <color name="commentColor">#f6f6f6</color>
+    <color name="commentTextColor">#444444</color>
+    <color name="commentLocationBgColor">#dddddd</color>
+    <color name="color000000">#4648f1</color>
+    <color name="divider">#E5E5E5</color>
+    <color name="shadow">#AAEBEBEB</color>
+    <color name="common_bg">#FAFAFA</color>
+    <color name="content_bg">#F3F3F3</color>
+    <color name="gray_deep">#5c5c5c</color>
+    <color name="gray_shallow">#f8f8f8</color>
+    <color name="alpha_gray">#CC646464</color>
+    <color name="theme_gray">#646464</color>
+    <color name="dialog_bg">#7000</color>
+
+    <color name="edit_tag_red">#d81e06</color>
+    <color name="edit_tag_orange">#e0620d</color>
+    <color name="edit_tag_yellow">#f4ea2a</color>
+    <color name="edit_tag_green">#0e932e</color>
+    <color name="edit_tag_blue">#1296db</color>
+    <color name="edit_tag_purple">#8630b6</color>
+<!--camera start-->
+    <color name="popup_title_color">#c9cdd1</color>
+    <color name="advance_setting_item_bg">#f8f8f8</color>
+
+    <color name="common_title_text">#565555</color>
+
+    <color name="Magenta">#FF2F92</color>   
+    <color name="Grassgreen">#1DB100</color>
+    <color name="Skyblue">#3498DB</color>
+    <color name="orange">#F39C12</color>
+    <color name="gold_yellow">#ffb900</color>
+<!--camera end-->
+
+</resources>
